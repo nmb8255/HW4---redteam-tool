@@ -17,7 +17,8 @@
 #
 # By:
 #   Nicholas Brink
-#
+#   nmb8255@g.rit.edu
+
 
 
 #1: Re-run as root if not already
